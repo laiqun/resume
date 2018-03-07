@@ -5,13 +5,16 @@
  
 ### Tel: 15889671167  &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email:15889671167@163.cn &nbsp;   
 ### 性别:女 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 工作经验:9年
+
 ---
+
 # 教育经历
 * 	2006.9- 2008.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华中科技大学  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机系统结构&nbsp;&nbsp;&nbsp;&nbsp;  硕士
 * 	2001.9- 2005.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华中师范大学  &nbsp;&nbsp;计算机科学与技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学士            
 
 ---
 # 专业技能
+
 * 熟悉嵌入式C Programming
 * 熟悉ARM Architecture，以及手机驱动程序开发，熟悉USB Controller，I2C/SPI Controller，power management IC
 * 具备专业客户技术支持经验以及项目管理经验
@@ -34,6 +37,7 @@
 ---
 
 # 工作经历
+
 ## 2013.2 - 至今       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    联发科深圳   &nbsp;&nbsp;&nbsp;  技术副理岗位                         
 * 工作描述：BSP部分与客户的直接对接人，协助客户解决问题，跟进客户项目进度
 *	工作职责：负责 android bsp技术支持，包括USB, OTG ,Charging, fuel gauge等模块技术支持。
