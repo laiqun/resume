@@ -37,12 +37,15 @@
 ## 2013.2 - 至今       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    联发科深圳   &nbsp;&nbsp;&nbsp;  技术副理岗位                         
 * 工作描述：BSP部分与客户的直接对接人，协助客户解决问题，跟进客户项目进度
 *	工作职责：负责 android bsp技术支持，包括USB, OTG ,Charging, fuel gauge等模块技术支持。
+
 ## 2011.3 - 2013.2      &nbsp;&nbsp;&nbsp; 联发科深圳   &nbsp;&nbsp;&nbsp;  高级工程师岗位                         
 * 工作描述：协助客户完成项目，指定设计方案，定制化代码，bug修复等工作。
 *	工作职责：负责基于Nucleus平台的peripheral、charing、sd card、sim card等模块的维护、定制与bug修复。
+
 ## 2008.7 - 2011.2      &nbsp;&nbsp;&nbsp; 联发科深圳   &nbsp;&nbsp;&nbsp;  工程师岗位                         
 * 工作描述：协助客户完成项目，指定设计方案，定制化代码，bug修复等工作。
 *	工作职责：负责基于Nucleus平台的peripheral、charing、sd card、sim card等模块的维护、定制与bug修复。
+
 ## 2005.2 - 2006.2      &nbsp;&nbsp;&nbsp; 华科大产业基地   &nbsp;&nbsp;&nbsp;  助理工程师岗位                         
 * 工作描述：基于WINCE平台PDA设备的拍卖系统开发
 *	工作职责：完成拍卖系统的开发
