@@ -1,0 +1,8 @@
+title: Resume
+description: "laiqun online resume "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
