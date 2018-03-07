@@ -9,8 +9,8 @@
 ---
 
 # 教育经历
-* 	2006.9- 2008.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华中科技大学  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机系统结构&nbsp;&nbsp;&nbsp;&nbsp;  硕士
-* 	2001.9- 2005.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华中师范大学  &nbsp;&nbsp;计算机科学与技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学士            
+* 	2006.9- 2008.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华中科技大学  &nbsp;&nbsp;&nbsp;计算机系统结构&nbsp;&nbsp;&nbsp;&nbsp;  硕士
+* 	2001.9- 2005.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华中师范大学  &nbsp;&nbsp;&nbsp;计算机科学与技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学士            
 
 ---
 # 专业技能
